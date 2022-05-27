@@ -62,7 +62,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **João Augusto Lissoni Lanjoni** - _Developer & Member of He4rt Developers_ - [@lanjoni](seutwitter)
 
 ---
 
