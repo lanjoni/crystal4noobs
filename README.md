@@ -9,25 +9,27 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">Título do seu 4noobs</h2>
+  <h2 align="center">Crystal4noobs</h2>
 
-  <h1 align="center"><img src="./.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" alt="Imagem da linguagem" width="120"></h1>
   
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <a href="https://crystal-lang.org/docs/"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
+    <a href="https://github.com/lanjoni/crystal4noobs/issues">Report Bug</a>
     ·
-    <a href="link-para-abrir-issue">Request Feature</a>
+    <a href="https://github.com/lanjoni/crystal4noobs/issues">Request Feature</a>
   </p>
 </p>
     
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+Este projeto possui como objetivo introduzir e explorar funcionalidades da linguagem de programação Crystal, uma linguagem para humanos e computadores, com interações semelhantes ao Ruby, porém, com diversas funcionalidades interessantes. Crystal é uma linguagem nova, porém, com muito potencial.
+
+O material aqui disponibilizado será útil para sua introdução ao mundo do desenvolvimento utilizando Crystal.
 
 <!-- ROADMAP OF PROJECT -->
 
