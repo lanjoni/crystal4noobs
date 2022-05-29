@@ -37,9 +37,8 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
 
 - [Conteúdo 1](link-primeira-parte)
 - [Conteúdo 2](link-segunda-parte)
-- [Conteúdo 3](link-terceira-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  	- [Sub-conteúdo](link-sub-conteudo)
+- [Introdução](https://github.com/lanjoni/crystal4noobs/tree/main/content/intro)
+  - [Instalação](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md)
   - [Sub-conteúdo](link-sub-conteudo)
 - [Conteúdo 4](link-quarta-parte)
 - [Conteúdo 5](link-quinta-parte)
