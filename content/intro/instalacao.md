@@ -184,3 +184,13 @@ ou
 ```
 sudo snap install crystal --classic --edge
 ```
+
+---
+
+<p align="right">
+  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/helloworld.md">Próximo -> Hello World!</a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lanjoni/crystal4noobs#roadmap">Voltar para o menu principal</a>
+</p>
