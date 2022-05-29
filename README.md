@@ -35,8 +35,6 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
 
 ## ROADMAP
 
-- [Conteúdo 1](link-primeira-parte)
-- [Conteúdo 2](link-segunda-parte)
 - [Introdução](https://github.com/lanjoni/crystal4noobs/tree/main/content/intro)
   - [Instalação](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md)
   - [Sub-conteúdo](link-sub-conteudo)
