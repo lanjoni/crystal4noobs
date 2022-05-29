@@ -3,10 +3,10 @@
 Bom, se você chegou até aqui, quer dizer que realmente está interessado em dar continuade nesse aprendizado, e agora, iremos instalar o compilador em Crystal em seu computador pessoal.
 
 ## Sistemas Operacionais
-- [macOS](https://github.com/lanjoni/crystal4noobs/edit/main/content/intro/instalacao.md#macos)
-- [Windows](https://github.com/lanjoni/crystal4noobs/edit/main/content/intro/instalacao.md#windows)
-- [Debian/Ubuntu e derivados](https://github.com/lanjoni/crystal4noobs/edit/main/content/intro/instalacao.md#debianubuntu-e-derivados)
-- [Red Hat/Fedora e derivados](https://github.com/lanjoni/crystal4noobs/content/intro/instalacao.md#red-hatfedora-e-derivados)
+- [macOS](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#macos)
+- [Windows](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#windows)
+- [Debian/Ubuntu e derivados](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#debianubuntu-e-derivados)
+- [Red Hat/Fedora e derivados](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#red-hatfedora-e-derivados)
 - [OpenSUSE](link-terceira-parte)
 - [Arch Linux/Manjaro e derivados](link-terceira-parte)
 - [Gentoo](link-terceira-parte)
