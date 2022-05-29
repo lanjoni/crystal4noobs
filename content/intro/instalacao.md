@@ -187,6 +187,8 @@ sudo snap install crystal --classic --edge
 
 ---
 
+E aí, seu compilador Crystal já está instalado corretamente? É hora de termos o nosso primeiro contato com a linguagem Crystal!
+
 <p align="right">
   <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/helloworld.md">Próximo -> Hello World!</a>
 </p>
