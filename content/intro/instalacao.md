@@ -15,6 +15,8 @@ Bom, se você chegou até aqui, quer dizer que realmente está interessado em da
 
 Nota: sempre que for visto "{REPOSITORY}" em algum link para instalação, altere esta palavra para o nome e versão de sua distribuição! Para mais informações clique <a href="https://software.opensuse.org/download.html?project=devel%3Alanguages%3Acrystal&package=crystal">aqui!</a>
 
+Teve algum problema com a instalação? Clique <a href="https://crystal-lang.org/install/">aqui</a> para acessar a documentação oficial de instalação!
+
 ---
 
 ### macOS
