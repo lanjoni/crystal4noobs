@@ -53,7 +53,7 @@ puts a % b  # resultado: 1 (módulo)
 Neste momento temos uma base para dar continuidade em nosso curso! Já conseguimos realizar operações aritméticas, retornar valores e exibir mensagens em nosso terminal! Agora, podemos nos aprofundar nos conceitos de como utilizar cada tipo de variável...
 
 <p align="right">
-  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md">Próximo -> Instalação</a>
+  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/int32-float64.md">Próximo -> Int32 e Float64</a>
 </p>
 
 <p align="left">
