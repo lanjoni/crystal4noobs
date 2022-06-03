@@ -1,7 +1,7 @@
 # Conceitos <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" alt="Imagem da linguagem" width="100">
 
 ## Conceitos por trás do desenvolvimento com Crystal
-- [Variáveis](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#variaveis)
+- [Variáveis](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#variáveis)
 - [Propriedades do "puts"](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#propriedades-do-puts)
 - [Operações aritméticas](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#opera%C3%A7%C3%B5es-aritm%C3%A9ticas)
 
