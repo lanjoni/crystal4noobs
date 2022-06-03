@@ -3,7 +3,7 @@
 ## Conceitos por trás do desenvolvimento com Crystal
 - [Variáveis](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#variaveis)
 - [Propriedades do "puts"](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#propriedades-do-puts)
-- [Operações aritméticas](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#operacoes-aritmeticas)
+- [Operações aritméticas](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#opera%C3%A7%C3%B5es-aritm%C3%A9ticas)
 
 ### Variáveis
 Como já era de se esperar, existe na liguagem Crystal quatro tipos que se destacam e fazem com que seu uso possa ser possível, que são:
