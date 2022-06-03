@@ -1,15 +1,9 @@
 # Conceitos <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" alt="Imagem da linguagem" width="100">
 
 ## Conceitos por trás do desenvolvimento com Crystal
-- [macOS](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#macos)
-- [Windows](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#windows)
-- [Debian/Ubuntu e derivados](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#debianubuntu-e-derivados)
-- [Red Hat/Fedora e derivados](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#red-hatfedora-e-derivados)
-- [OpenSUSE](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#opensuse)
-- [Arch Linux/Manjaro e derivados](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#arch-linuxmanjaro-e-derivados)
-- [Gentoo](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#gentoo)
-- [FreeBSD](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#freebsd)
-- [Snaps](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md#snaps)
+- [Variáveis](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#variaveis)
+- [Propriedades do "puts"](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#propriedades-do-puts)
+- [Operações aritméticas](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/README.md#operacoes-aritmeticas)
 
 ### Variáveis
 Como já era de se esperar, existe na liguagem Crystal quatro tipos que se destacam e fazem com que seu uso possa ser possível, que são:
