@@ -34,7 +34,7 @@ Para visualizar a execução deste novo arquivo compilado criado, basta executar
 Pronto! Agora que você já teve seu primeiro contato com a linguagem Crystal, compilou e executou seu primeiro trecho de código, podemos avançar para outras definições da linguagem, como por exemplo o tratamento de variáveis, cadeias de caracteres, operadores lógicos, entre outras diversas possibilidades que Crystal pode oferecer! Vamos lá?
 
 <p align="right">
-  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md">Próximo -> Conceitos</a>
+  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/strings.md">Próximo -> Conceitos</a>
 </p>
 
 <p align="left">
