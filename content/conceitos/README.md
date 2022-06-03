@@ -9,19 +9,48 @@ Como já era de se esperar, existe na liguagem Crystal quatro tipos que se desta
 - Float64 (geralmente conhecida como tipo "Float", é o tipo de variável que trabalha com números não inteiros - "quebrados" ou "com vírgula"-, ou seja, números com pontos flutuantes);
 - Bool (geralmente conhecida como "Boolean", é o tipo de variável que define uma condição como sendo verdadeira - true - ou falsa - false);
 
-### Usabilidade
+Caso você tenha em mãos uma variável, porém, não sabe seu tipo definido, basta utilizar a função "typeof", como no exemplo abaixo:
+```cr
+name = "He4rt"
+!p typeof(name) # Irá retornar: typeof(name) => String
+```
 
-Sendo uma linguagem de programação orientada a objetos, projetada e desenvolvida por <a href="https://github.com/asterite">Ary Borenszweig</a>, <a href="https://github.com/waj">Juan Wajnerman</a> e <a href="https://github.com/bcardiff">Brian Cardiff</a>, além de mais de 300 colaboradores, Crystal é uma linguagem para humanos e computadores, com sintaxe amigável e inspirada na linguagem Ruby, sendo compilada com tipagem estática. Crystal está em desenvolvimento, sendo publicada como software livre e de código aberto sob licença Apache versão 2.0. Sua versão mais atualizada (no dia em que publico esta documentação) é 1.4.1. Seu repositório pode ser acessado clicando <a href="https://github.com/crystal-lang">aqui!</a>
+Perceba que no exemplo acima foi utilizado o comando "!p" ao invés de "puts"! Ele é utilizado para facilitar o debug de seu código e inclui o nome da variável! Os comentários podem ser adicionados utilizando uma cerquilha (#)!
 
-### Peculiaridades
+### Propriedades do "puts"
 
-Por mais que a sintaxe da linguagem Crystal se pareça muito com a da Ruby, saiba que Crystal compila para um código nativo muito eficiente, utilizando de um backend LLVM, excluindo os aspectos dinâmicos do Ruby. 
+Em algumas linguagens de programação é muito comum adicionar o nome de variável para ser impresso ao invés de concatenar com alguma outra informação, e com o comando "puts" isto é possível! Veja o exemplo abaixo:
+```cr
+numero = 10
+puts "O valor da variável é #{numero}"
+```
 
-Outro ponto interessante é: a linguagem possui coleta de lixo automatizada, e atualmente oferece um coletor Boehm, possuindo também um sistema de macros e suporta genéricos, bem como sobrecarga de métodos e operadores. O modelo utilizado para simultaneidade do Crystal é baseado na comunicação de processos sequenciais, implementando fibras leves e canais inspirados na linguagem de programação GO!
+Basicamente, conseguimos adicionar qualquer variável para ser impressa utilizando a sintaxe "#{nomedavariavel}"!
+
+### Operações aritméticas
+
+Inicialmente, antes de definir algumas propriedades das operações matemáticas, precisamos partir para uma análise com relação aos tipos de variáveis aceitos para operações! 
+
+Se uma variável é do tipo String, mesmo que ela receba algum número, e somente ele, não será possível realizar nenhuma operação aritmética!
+
+Bom, agora que já sabemos o tratamento com relação ao tipo String, podemos iniciar uma breve apresentação sobre as possíveis operações a serem realizadas:
+```cr
+a = 7
+b = 2
+
+puts a + b  # resultado: 9
+puts a - b  # resultado: 5
+puts a * b  # resultado: 14
+puts a ** b # resultado: 49 (potência - elevado)
+puts a / b  # resultado: 3.5
+puts a // b # resultado: 3 (parte inteira)
+puts a % b  # resultado: 1 (módulo)
+
+```
 
 ---
 
-E aí? Gostou da linguagem Crystal? O que acha de realizarmos sua "instalação" e começarmos nossos primeiros testes?
+Neste momento temos uma base para dar continuidade em nosso curso! Já conseguimos realizar operações aritméticas, retornar valores e exibir mensagens em nosso terminal! Agora, podemos nos aprofundar nos conceitos de como utilizar cada tipo de variável...
 
 <p align="right">
   <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md">Próximo -> Instalação</a>
