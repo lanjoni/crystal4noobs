@@ -1,11 +1,13 @@
 # Conceitos <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" alt="Imagem da linguagem" width="100">
 
-## O que é o Crystal?
+## Conceitos por trás do desenvolvimento com Crystal
 
-### História
-A linguagem Crystal surgiu em um projeto em junho de 2011, com objetivo de ser uma linguagem elegante e produtiva como Ruby e a velocidade e eficiência de uma linguagem compilada.
-
-O compilador Crystal foi escrito na primeira vez em Ruby, e posteriormente reescrito em Crystal, se tornando auto-hospedado em novembro de 2013. A primeira versão oficial foi lançada em junho de 2014, e em julho de 2016 a linguagem Crystal entrou para o TIOBE.
+### Variáveis
+Como já era de se esperar, existe na liguagem Crystal quatro tipos que se destacam e fazem com que seu uso possa ser possível, que são:
+- String (conhecida por este nome representa uma variável que armazena um conjunto de caracteres, como letras e símbolos);
+- Int32 (geralmente conhecida como tipo "Integer" ou "Inteiro", é o tipo que trata de variáveis como números inteiros);
+- Float64 (geralmente conhecida como tipo "Float", é o tipo de variável que trabalha com números não inteiros - "quebrados" ou "com vírgula"-, ou seja, números com pontos flutuantes);
+- Bool (geralmente conhecida como "Boolean", é o tipo de variável que define uma condição como sendo verdadeira - true - ou falsa - false);
 
 ### Usabilidade
 
