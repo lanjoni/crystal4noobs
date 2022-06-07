@@ -11,3 +11,14 @@ numeroFloat = -5.2
 !p numeroFloat.abs # Retornará 5.2! Basicamente este método transforma um número negativo em positivo!
 !p numeroFloat.round # Retornará -5.0! Este método será utilizado para "arredondar" um número!
 ```
+---
+
+Eaí, conseguiu entender bem como é o funcionamento de vaiáveis "Integer" e "Float" com Crystal? Agora vamos estudar um pouco sobre o funcionamento de strings com Crystal!
+
+<p align="right">
+  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/strings.md">Próximo -> Strings</a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lanjoni/crystal4noobs#roadmap">Voltar para o menu principal</a>
+</p>
