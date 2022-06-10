@@ -39,7 +39,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Instalação](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/instalacao.md)
   - [Hello World!](https://github.com/lanjoni/crystal4noobs/blob/main/content/intro/helloworld.md)
 - [Conceitos](https://github.com/lanjoni/crystal4noobs/tree/main/content/conceitos)
-  - [Integer e Floatc](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/int32-float64.md)
+  - [Integer e Float](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/int32-float64.md)
   - [Strings](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/strings.md)
 - [Conteúdo 5](link-quinta-parte)
   - [Sub-conteúdo](link-sub-conteudo)
