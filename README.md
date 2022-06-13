@@ -12,7 +12,7 @@
   <h2 align="center">Crystal4noobs</h2>
 
   <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" alt="Imagem da linguagem" width="120"></h1>
-  
+ 
   <p align="center">
     <br />
     <a href="https://crystal-lang.org/docs/"><strong>Explore a documentação »</strong></a>
