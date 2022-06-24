@@ -29,7 +29,7 @@
 ## Sobre o Projeto
 Este projeto possui como objetivo introduzir e explorar funcionalidades da linguagem de programação Crystal, uma linguagem para humanos e computadores, com interações semelhantes ao Ruby, porém, com diversas funcionalidades interessantes. Crystal é uma linguagem nova, porém, com muito potencial.
 
-O material aqui disponibilizado será útil para sua introdução ao mundo do desenvolvimento utilizando Crystal. 
+O material aqui disponibilizado será útil para sua introdução ao mundo do desenvolvimento utilizando Crystal.
 
 <!-- ROADMAP OF PROJECT -->
 
