@@ -51,7 +51,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
 ## Como Contribuir
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas** 
+são **extremamente apreciadas**
 
 1. Realize um Fork do projeto
 2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
