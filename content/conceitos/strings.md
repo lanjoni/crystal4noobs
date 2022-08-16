@@ -122,3 +122,15 @@ puts text # O nome é Crystal e o número é 4444
 text = sprintf "O nome é %s e o número é %s", name, number
 puts text # O nome é Crystal e o número é 4444
 ```
+---
+
+O que achou desse módulo de strings? Agora vamos falar um pouco sobre loops!
+
+<p align="right">
+  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/loops.md">Próximo -> Loops</a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lanjoni/crystal4noobs#roadmap">Voltar para o menu principal</a>
+</p>
+---
