@@ -41,6 +41,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
 - [Conceitos](https://github.com/lanjoni/crystal4noobs/tree/main/content/conceitos)
   - [Integer e Float](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/int32-float64.md)
   - [Strings](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/strings.md)
+  - [Loops](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/loops.md)
 - [Conteúdo 5](link-quinta-parte)
   - [Sub-conteúdo](link-sub-conteudo)
   - [Sub-conteúdo](link-sub-conteudo)
