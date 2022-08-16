@@ -133,4 +133,3 @@ O que achou desse módulo de strings? Agora vamos falar um pouco sobre loops!
 <p align="left">
   <a href="https://github.com/lanjoni/crystal4noobs#roadmap">Voltar para o menu principal</a>
 </p>
----
