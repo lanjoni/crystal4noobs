@@ -98,3 +98,27 @@ nome, senha = text.split(":")
 puts nome
 puts senha
 ```
+
+
+## Concatenar strings com variáveis (sprintf e %)
+
+Sim, você pode concatenar um valor de variável em uma nova string para que depois ela possa ser usada, veja alguns exemplos:
+```cr
+name = "Crystal"
+number = 4444
+
+text = "O nome é %s" % name
+puts text # O nome é Crystal
+
+text = "O nome é %s e o número é %s" % {name, number} # Tuple
+puts text # O nome é Crystal e o número é 4444
+
+text = "O nome é %s e o número é %s" % [name, number] # Array
+puts text # O nome é Crystal e o número é 4444
+
+text = "O nome é %{txt} e o número é %{num}" % {txt: name, num: number} # NamedTuple
+puts text # O nome é Crystal e o número é 4444
+
+text = sprintf "O nome é %s e o número é %s", name, number
+puts text # O nome é Crystal e o número é 4444
+```
