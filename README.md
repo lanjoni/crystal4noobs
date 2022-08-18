@@ -43,6 +43,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Strings](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/strings.md)
   - [Loops](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/loops.md)
   - [Condicionais](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/condicionais.md)
+  - [Arrays](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/arrays.md)
 - [Conteúdo 5](link-quinta-parte)
   - [Sub-conteúdo](link-sub-conteudo)
   - [Sub-conteúdo](link-sub-conteudo)
