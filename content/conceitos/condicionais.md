@@ -203,8 +203,57 @@ default
 
 Eaí, o que achou das estruturas condicionais utilizadas em Crystal? Já está pronto para um exercício simples de código com o que aprendemos até agora? Vamos lá!
 
+## Exercício 1 - Condicionais e Loops!
+
+-> O código de resolução estará logo abaixo!
+
+Utilizando seus conhecimentos com a linguagem Crystal desenvolva um código para o enunciado abaixo:
+
+- Crie um arquivo com a extensão ".cr" com um nome de sua preferência!
+- Usando o módulo para números aleatórios (chamado "Random.rand(LIMITE)"), deverá ser armazenado um número inteiro entre 1 e 20.
+- O usuário deve adivinhar o número. Depois que o usuário digita o seu palpite, deverá ser informado se este foi maior ou menor do que o número gerado, ou se foi o mesmo!
+- O usuário pode adivinhar várias vezes. O jogo termina quando o usuário adivinhar o número certo!
+
+Vamos lá?
+
+DICA: Para definir um número aleatório utilize o seguinte trecho de código:
+
+```cr
+LIMITE = 20
+
+numeroSecreto = Random.rand(LIMIT) + 1
+```
+
+Eaí, conseguiu?
+
+Resolução:
+
+```cr
+LIMITE = 20
+
+numeroSecreto = Random.rand(LIMITE) + 1
+# puts "Para verificar qual o número: #{numeroSecreto}" # Esta linha de código mostra a resposta direto! Descomente para ver a resposta logo no início e verificar se está tudo correto!
+loop do
+  print "Adivinhe um número entre 1 e #{LIMITE}: "
+  guess = gets.not_nil!.to_i
+
+  if guess == numeroSecreto
+    puts "Acertou!"
+    break
+  elsif guess < numeroSecreto
+    puts "Muito pequeno..."
+  else
+    puts "Muito grande..."
+  end
+end
+```
+
+---
+
+O que achou das estruturas condicionais? Conseguiu resolver o exercício? Bora pra mais um desafio?
+
 <p align="right">
-  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/exercicio1.md">Próximo -> Exercício 1 - Condicionais e Loops</a>
+  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/arrays.md">Próximo -> Arrays</a>
 </p>
 
 <p align="left">
