@@ -46,6 +46,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Arrays](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/arrays.md)
   - [Hash](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/hash.md)
   - [Arquivos](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/arquivos.md)
+  - [Diretórios](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/diretorios.md)
 - [Conteúdo 5](link-quinta-parte)
   - [Sub-conteúdo](link-sub-conteudo)
   - [Sub-conteúdo](link-sub-conteudo)
