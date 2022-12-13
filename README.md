@@ -68,7 +68,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **João Augusto Lissoni Lanjoni** - _Developer & Member of He4rt Developers_ - [@lanjoni](seutwitter)
+- **João Augusto Lissoni Lanjoni** - _Developer & Member of He4rt Developers_ - [@lanjoni](twitter.com/gutolanjoni)
 
 ---
 
