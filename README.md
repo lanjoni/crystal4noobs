@@ -64,7 +64,7 @@ são **extremamente apreciadas**
 2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
 3. Realize o Commit (`git commit -m 'Adicionado conteudo brabo'`)
 4. Realize o Push no Branch (`git push origin feature/featureBraba`)
-5. Abra um Pull Request 
+5. Abra um Pull Request
 
 ## Autores
 
