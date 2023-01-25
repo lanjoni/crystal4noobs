@@ -98,7 +98,7 @@ Caso queira estudar um pouco mais sobre structs seguindo a documentação oficia
 O que achou de structs e seu funcionamento na linguagem Crystal?
 
 <p align="right">
-  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/finalizacao/finalizacao.md">Próximo -> Finalização</a>
+  <a href="https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/classes.md">Próximo -> Classes</a>
 </p>
 
 <p align="left">
