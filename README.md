@@ -49,6 +49,7 @@ O material aqui disponibilizado será útil para sua introdução ao mundo do de
   - [Diretórios](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/diretorios.md)
   - [Funções](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/funcoes.md)
   - [Structs](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/structs.md)
+  - [Classes](https://github.com/lanjoni/crystal4noobs/blob/main/content/conceitos/classes.md)
 - [Finalização](https://github.com/lanjoni/crystal4noobs/blob/main/content/finalizacao/finalizacao.md)
   
  
