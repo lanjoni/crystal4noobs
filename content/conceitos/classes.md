@@ -71,15 +71,19 @@ end
 str = %{{"nome": "Guto", "altura": 1.7}}
   
 pessoa = Pessoa.from_json(str)
-puts pessoa.nome
-puts pessoa.altura
+puts pessoa.nome # Guto
+puts pessoa.altura # 1.7
 
 pessoa.nome = "João"
 
-puts pessoa.nome
+puts pessoa.nome # João
 ```
 
-No exemplo acima realizamos a importação da biblioteca responsável por controlar os dados em formato JSON
+No exemplo acima realizamos a importação da biblioteca responsável por controlar os dados em formato JSON, depois criamos nossa classe, na qual você consegue notar algumas diferenças marcantes em seu conteúdo!
+
+Logo depois, criamos uma string que deve conter nossos dados em formato JSON e utilizamos para instanciar nossa nova variável "pessoa" do tipo "Pessoa".
+
+Para atualizar algum valor, perceba que dessa vez utilizamos o símbolo "=" ao invés de passar algum valor como parâmetro!
 
 ---
 
